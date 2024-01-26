@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\form_intalacion.o
+./release\form_instalacion_dos.o
+./release\mostrar_informacion.o
+./release\mostrar_saldo.o
+./release\cuentas.o
+./release\operaciones.o
+./release\banco.o
+./release\qrc_helpers.o
+./release\moc_mainwindow.o
+./release\moc_form_intalacion.o
+./release\moc_form_instalacion_dos.o
+./release\moc_mostrar_informacion.o
+./release\moc_mostrar_saldo.o
+);

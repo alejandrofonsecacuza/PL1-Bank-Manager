@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\form_intalacion.o
+./debug\form_instalacion_dos.o
+./debug\mostrar_informacion.o
+./debug\mostrar_saldo.o
+./debug\cuentas.o
+./debug\operaciones.o
+./debug\banco.o
+./debug\qrc_helpers.o
+./debug\moc_mainwindow.o
+./debug\moc_form_intalacion.o
+./debug\moc_form_instalacion_dos.o
+./debug\moc_mostrar_informacion.o
+./debug\moc_mostrar_saldo.o
+);
